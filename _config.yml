@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: Jaina McGregor
 description: Strategic Program Director | Bridge Architect
+show_downloads: false
+github_is_project_page: false
 logo: profile.jpg
