@@ -7,12 +7,40 @@
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <style>
-      /* Optional: formatting to ensure the logo looks neat */
+      /* Headshot Styling */
       header img {
-        border-radius: 50%; /* Makes the headshot a circle */
-        max-width: 150px;   /* Prevents it from being huge */
+        border-radius: 50%;
+        max-width: 150px;
         margin-bottom: 20px;
         border: 3px solid #eef;
+      }
+      
+      /* Navigation Button Styling */
+      .nav-container {
+        display: flex;
+        gap: 15px; /* Space between buttons */
+        margin-bottom: 40px; /* Space below the nav bar */
+        border-bottom: 1px solid #eaecef; /* Single, clean line below nav */
+        padding-bottom: 20px;
+      }
+
+      .nav-button {
+        display: inline-block;
+        padding: 8px 20px;
+        color: #2c3e50; /* Dark text */
+        background-color: white;
+        border: 1px solid #d1d5da; /* Subtle grey border */
+        border-radius: 6px; /* Rounded corners */
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 14px;
+        transition: all 0.2s ease;
+      }
+
+      .nav-button:hover {
+        background-color: #f6f8fa; /* Light grey on hover */
+        border-color: #2c3e50; /* Darker border on hover */
+        text-decoration: none;
       }
     </style>
   </head>
@@ -32,8 +60,13 @@
             Technical Turnarounds
         </p>
 
-        </header>
+      </header>
       <section>
+
+      <nav class="nav-container">
+        <a href="mailto:contact@jainamcgregor.com" class="nav-button">Email Me</a>
+        <a href="https://www.linkedin.com/in/jainamcgregor" class="nav-button">LinkedIn</a>
+      </nav>
 
       {{ content }}
 
