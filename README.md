@@ -11,23 +11,19 @@ I am a Strategic Program Director who specializes in rescuing stalled digital tr
 ### Selected Engagements
 
 **Stabilizing Mission-Critical ERP Workflows**
-* *The Problem:* A major municipal government struggled with inefficiencies in their PeopleSoft Learning Management modules, facing high incident rates and regression risks.
-* *The Strategy:* Acted as the translation layer between technical vendors and functional stakeholders, leading requirements scoping and execution of regression testing.
-* *The Result:* **Delivered stable, optimized workflows for city-wide use, reducing production errors and ensuring zero operational downtime during patching.**
-
-<br>
+* **The Problem:** A major municipal government struggled with inefficiencies in their PeopleSoft Learning Management modules, facing high incident rates and regression risks.
+* **The Strategy:** Acted as the translation layer between technical vendors and functional stakeholders, leading requirements scoping and execution of regression testing.
+* **The Result:** Delivered stable, optimized workflows for city-wide use, reducing production errors and ensuring zero operational downtime during patching.
 
 **Eliminating Manual Labor with Python Automation**
-* *The Problem:* A client’s lead generation and routing process was entirely manual, creating bottlenecks and lost revenue due to slow response times.
-* *The Strategy:* Designed and deployed a custom Python application integrated with Twilio to automatically log, filter, and route incoming calls.
-* *The Result:* **Transformed a high-touch process into a fully autonomous system, reducing administrative overhead by 90% and ensuring instant lead capture.**
-
-<br>
+* **The Problem:** A client’s lead generation and routing process was entirely manual, creating bottlenecks and lost revenue due to slow response times.
+* **The Strategy:** Designed and deployed a custom Python application integrated with Twilio to automatically log, filter, and route incoming calls.
+* **The Result:** Transformed a high-touch process into a fully autonomous system, reducing administrative overhead by 90% and ensuring instant lead capture.
 
 **Aligning C-Suite Vision with Technical Reality**
-* *The Problem:* A complex IT project was stalling because the development team’s output didn't match the executive board’s strategic goals.
-* *The Strategy:* Leveraged a strategic technical audit to map the development roadmap against business KPIs and facilitate realignment.
-* *The Result:* **Rescued the project from scope creep, providing a clear path forward that satisfied both technical constraints and business requirements.**
+* **The Problem:** A complex IT project was stalling because the development team’s output didn't match the executive board’s strategic goals.
+* **The Strategy:** Leveraged a strategic technical audit to map the development roadmap against business KPIs and facilitate realignment.
+* **The Result:** Rescued the project from scope creep, providing a clear path forward that satisfied both technical constraints and business requirements.
 
 ---
 
