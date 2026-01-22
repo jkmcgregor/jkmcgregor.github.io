@@ -5,7 +5,7 @@ title: Methodology
 
 ## The Technical Translation Framework
 
-High-stakes IT projects don't fail because of a lack of effort; they fail because of a disconnect between executive vision and technical execution. My methodology is grounded in **Servant Leadership** and **Strengths-based** principles, designed to bridge that gap.
+High-stakes IT projects don't fail because of a lack of effort; they fail because of a disconnect between executive vision and technical execution. My methodology is grounded in Servant Leadership and Strengths-based principles, designed to bridge that gap.
 
 ### Phase 1: The Technical Reality Audit
 Before moving forward, we must know exactly where we stand. I perform a deep-dive assessment of the current technical landscape to ground the strategy in reality.
