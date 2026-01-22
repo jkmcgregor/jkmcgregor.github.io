@@ -2,8 +2,8 @@
 
 ---
 
-## The "Bridge" Methodology
-I specialize in fixing the unfixable. As a "Bridge" architect, I connect technical infrastructure with enterprise goals, ensuring that complex IT projects deliver actual business value.
+## Professional Profile
+I am a Strategic Program Director who specializes in rescuing stalled digital transformations. I connect technical infrastructure with enterprise goals to ensure complex IT projects deliver actual business value.
 
 ### Core Competencies
 * **Strategic Turnarounds:** Rescuing stalled ERP implementations and digital transformations.
