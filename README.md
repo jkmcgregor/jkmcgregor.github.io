@@ -34,13 +34,16 @@ I am a Strategic Program Director who specializes in rescuing stalled digital tr
 ### What Stakeholders Say
 
 > "Jaina is great at solving problems—both technical and customer oriented... She has the ability to maintain and promote a professional standard... Jaina is exceptional at what she does."
-> — **Tessa Schaffer, P.E., Environmental Engineer** (via LinkedIn)
+> — **Tessa Schaffer, P.E.**
+> *Environmental Engineer, Oregon State University*
 
 > "Jaina displayed outstanding knowledge of the business... and generated artifacts far exceeding my expectations... She is well-spoken and articulate; exemplifying highly-desired qualities."
-> — **James Rosensteel, Senior Business Analyst** (via LinkedIn)
+> — **James Rosensteel**
+> *Senior Business Analyst, Blizzard Entertainment*
 
 > "She was able to take on project management tasks within the team, assisting in coordinating and communicating directly with multiple development teams in various company-wide IT improvement efforts."
-> — **Stanley Fu, IT Manager** (via LinkedIn)
+> — **Stanley Fu**
+> *IT Manager, Blizzard Entertainment*
 
 ---
 
