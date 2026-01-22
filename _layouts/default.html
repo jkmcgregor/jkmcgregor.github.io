@@ -7,30 +7,24 @@
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <style>
-      /* Headshot Styling */
-      header img {
-        border-radius: 50%;
-        max-width: 150px;
-        margin-bottom: 20px;
-        border: 3px solid #eef;
-      }
-      
-      /* Navigation Button Styling */
-      .nav-container {
+      /* Navigation Button Styling - Vertical Sidebar Version */
+      .sidebar-nav {
         display: flex;
-        gap: 15px; /* Space between buttons */
-        margin-bottom: 40px; /* Space below the nav bar */
-        border-bottom: 1px solid #eaecef; /* Single, clean line below nav */
-        padding-bottom: 20px;
+        flex-direction: column; /* Stacks them vertically */
+        gap: 10px;
+        margin-top: 30px; /* Space between titles and links */
+        align-items: center;
       }
 
       .nav-button {
-        display: inline-block;
-        padding: 8px 20px;
-        color: #2c3e50; /* Dark text */
+        display: block;
+        width: 80%; /* Makes buttons uniform width */
+        padding: 10px 0;
+        text-align: center;
+        color: #424242;
         background-color: white;
-        border: 1px solid #d1d5da; /* Subtle grey border */
-        border-radius: 6px; /* Rounded corners */
+        border: 1px solid #d1d5da;
+        border-radius: 6px;
         text-decoration: none;
         font-weight: bold;
         font-size: 14px;
@@ -38,9 +32,14 @@
       }
 
       .nav-button:hover {
-        background-color: #f6f8fa; /* Light grey on hover */
-        border-color: #2c3e50; /* Darker border on hover */
+        background-color: #f6f8fa;
+        border-color: #424242;
         text-decoration: none;
+      }
+      
+      /* Mobile fix: Ensure content doesn't overlap on small screens */
+      @media screen and (max-width: 640px) {
+        .nav-button { width: 100%; }
       }
     </style>
   </head>
@@ -63,16 +62,17 @@
             Technical Turnarounds
         </p>
 
+        <nav class="sidebar-nav">
+          <a href="/" class="nav-button">Home</a>
+          <a href="/services.html" class="nav-button">Services</a>
+          <a href="/case-studies.html" class="nav-button">Case Studies</a>
+          <a href="/insights.html" class="nav-button">Insights</a>
+          <a href="https://www.linkedin.com/in/jainamcgregor" class="nav-button" target="_blank">LinkedIn</a>
+          <a href="mailto:contact@jainamcgregor.com" class="nav-button">Email Me</a>
+        </nav>
+
       </header>
       <section>
-
-      <nav class="nav-container">
-        <a href="mailto:contact@jainamcgregor.com" class="nav-button">Email Me</a>
-        <a href="https://www.linkedin.com/in/jainamcgregor" class="nav-button">LinkedIn</a>
-        <a href="/services.html" class="nav-button">Services</a>
-        <a href="/case-studies.html" class="nav-button">Case Studies</a>
-        <a href="/insights.html" class="nav-button">Insights</a>
-      </nav>
 
       {{ content }}
 
